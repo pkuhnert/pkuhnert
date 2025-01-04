@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm Petra Kuhnert, a Data Scientist at CSIRO’s D
 
 Here are some of the repositories I'm actively working on or have contributed to:
 
-- **[LRE (Loads Regression Estimator)](https://github.com/pkuhnert/LRE)**: An R package that estimates pollutant loads using a generalized rating curve approach with uncertainties. :contentReference[oaicite:1]{index=1}
+- **[LRE (Loads Regression Estimator)](https://github.com/pkuhnert/LRE)**: An R package that estimates pollutant loads using a generalized rating curve approach with uncertainties. 
 
-- **[Vizumap](https://github.com/pkuhnert/Vizumap)**: An R package for visualizing uncertainty in spatial data, providing four uncertainty visualization approaches for spatial data. :contentReference[oaicite:2]{index=2}
+- **[Vizumap](https://github.com/pkuhnert/Vizumap)**: An R package for visualizing uncertainty in spatial data, providing four uncertainty visualization approaches for spatial data. 
 
 - **[diet](https://github.com/pkuhnert/diet)**: Analysis of fish diet data using recursive partitioning.
 
@@ -20,7 +20,7 @@ Here are some of the repositories I'm actively working on or have contributed to
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working in a dual role as Associate Science Director - University Engagement and a Senior Research Scientist.  I have been busy helping to launch the Responsible AI Research Centre or RAIR Centre.  This is a partnership with CSIRO's Data61, the University of Adelaide and the South Australian Government and was launched on the 9th of December 2024. For more information about RAIR see the recent [media announcement](https://www.minister.industry.gov.au/ministers/husic/media-releases/new-research-centre-supporting-safe-and-responsible-ai) :contentReference[oaicite:3]{index=3}
+- 🔭 I’m currently working in a dual role as Associate Science Director - University Engagement and a Senior Research Scientist.  I have been busy helping to launch the Responsible AI Research Centre or RAIR Centre.  This is a partnership with CSIRO's Data61, the University of Adelaide and the South Australian Government and was launched on the 9th of December 2024. For more information about RAIR see the recent [media announcement](https://www.minister.industry.gov.au/ministers/husic/media-releases/new-research-centre-supporting-safe-and-responsible-ai) 
 
 - 🌱 I’m currently exploring new innovations in Agriculture and understanding how machine learning and AI can help advance science in this space to benefit farmers and industry.
   
