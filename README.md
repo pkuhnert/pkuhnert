@@ -31,7 +31,7 @@ Here are some of the repositories I'm actively working on or have contributed to
 ### 🌟 Fun Fact
 
 In my spare time I enjoy spending time with my family out on the water. I have two boys who enjoy fishing and the outdoors. 
- So every chance we get, we are out on the water. :contentReference[oaicite:4]{index=4}
+ So every chance we get, we are out on the water. 
 
 Feel free to explore my repositories or connect with me through my website. Thanks for visiting!
 
