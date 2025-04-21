@@ -24,7 +24,7 @@ Here are some of the repositories I'm actively working on or have contributed to
 
 - 🌱 I’m currently exploring new innovations in Agriculture and understanding how machine learning and AI can help advance science in this space to benefit farmers and industry.
   
-- 📫 How to reach me: [Petra.Kuhnert@data61.csiro.au](mailto:Petra.Kuhnert@data61.csiro.au)
+- 📫 How to reach me: [Petra.Kuhnert@csiro.au](mailto:Petra.Kuhnert@csiro.au)
 
 ---
 
